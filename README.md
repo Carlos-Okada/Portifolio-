@@ -24,7 +24,7 @@ Veja os tutoriais publicados do Sigmoidal:
 Esse serão os exemplos de projetos que vou apresentar
 
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analise exploratorio do AirBnb!:** https://bit.ly/2L2cMwy
 
 
 ---
