@@ -15,7 +15,7 @@ Vindo de uma transição de carreira, comecei em 2021 a estudar programação, e
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-preiori-okada-3644b7128/)
-* [Medium](https://www.medium.com)
+* [Email](cep.okada@gmail.com)
 
 
 ## Projetos:
